@@ -1,2 +1,2 @@
-# Culinaria-App
+# Pets
 A app made with React Native
