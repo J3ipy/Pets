@@ -1,2 +1,4 @@
-# Pets
-A app made with React Native
+# Pets Automation App
+> Stopped 🛑
+
+A app made with React Native.
